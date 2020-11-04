@@ -35,6 +35,6 @@
 
 {{COMMITS}}
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karelkryda&show_icons=true&theme=dracula" alt="karelkryda" height="200"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karelkryda&hide=lua&theme=dracula" alt="karelkryda's github stats"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karelkryda&show_icons=true&theme=dracula&count_private=true" alt="karelkryda" height="200"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karelkryda&hide=lua&theme=dracula&count_private=true" alt="karelkryda's github stats"/>
 <div><img src="https://github-profile-trophy.vercel.app/?username=karelkryda&theme=dracula" width="1200"></div></p>
