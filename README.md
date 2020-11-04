@@ -33,6 +33,8 @@
 <a href="https://instagram.com/karel.kryda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="manavvgarg_" height="30" width="40" /></a>
 </p>
 
+{{COMMITS}}
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karelkryda&show_icons=true&theme=dracula" alt="karelkryda" height="200"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karelkryda&hide=lua&theme=dracula" alt="karelkryda's github stats"/>
 <div><img src="https://github-profile-trophy.vercel.app/?username=karelkryda&theme=dracula" width="1200"></div></p>
