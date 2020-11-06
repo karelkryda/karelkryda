@@ -13,7 +13,7 @@
 
 - 🎵 I might be listening to something, you can see here right below :)
 
-[<img src="https://readme-spotify-status-three.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/karel.kryda)
+[<img src="https://readme-spotify-status-3wrbnl07q.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/karel.kryda)
 
 ### Languages and Tools:
 
@@ -36,5 +36,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karelkryda&show_icons=true&theme=dracula&count_private=true" alt="karelkryda" height="200"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karelkryda&theme=dracula&count_private=true" alt="karelkryda's github stats"/>
 <div><img src="https://github-profile-trophy.vercel.app/?username=karelkryda&theme=dracula&count_private=true" width="1200"></div></p>
