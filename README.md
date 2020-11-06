@@ -13,7 +13,7 @@
 
 - 🎵 I might be listening to something, you can see here right below :)
 
-[<img src="https://readme-spotify-status-3wrbnl07q.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/karel.kryda)
+[<img src="https://readme-spotify-status-orpin.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/karel.kryda)
 
 ### Languages and Tools:
 
