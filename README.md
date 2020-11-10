@@ -36,4 +36,5 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karelkryda&show_icons=true&theme=dracula&count_private=true" alt="karelkryda" height="200"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karelkryda&theme=dracula&count_private=true" alt="karelkryda's github stats" height="200"/>
 <div><img src="https://github-profile-trophy.vercel.app/?username=karelkryda&theme=dracula&count_private=true" width="1200"></div></p>
