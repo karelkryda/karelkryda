@@ -1,63 +1,75 @@
+<!-- Welcome section -->
 <h1 align="center">Hi 👋, I'm karelkryda</h1>
-<h3 align="center">A passionate developer and homelaber from Czech Republic</h3>
+<h3 align="center">a passionate developer, homelaber and DevOps engineer from Czech Republic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karelkryda" alt="karelkryda" /> </p>
+<!-- Profile view counter -->
+![karelkryda](https://komarev.com/ghpvc/?username=karelkryda&style=for-the-badge&color=red)
 
-- 🔭 I’m currently working on **Universal Speedtest** and **Whois** [Universal Speedtest](https://github.com/karelkryda/universal-speedtest) | [Whois](https://github.com/karelkryda/whois)
+<!-- Overview section -->
+<h2>ℹ️ Quick overview</h2>
+Here is some quick information about me:
 
-- 🌱 I’m currently learning **nothing special** (previously TypeScript)
+- 💼 DevOps engineer at AIMTEC a.s. ([web](https://www.aimtecglobal.com))
 
-- 🤖 Founder of **Muser - Discord music bot** [Top.gg](https://top.gg/bot/752087685404950580) | [Discord support server](https://discord.gg/GAB3DqC) | [Website](https://muserbot.tk)
+- 🌱 I'm constantly developing my skills
 
-- 📫 How to reach me **karel.kryda@gmail.com**
+- 🔬 Founder of **Universal Speedtest** library ([link](https://github.com/karelkryda/universal-speedtest))
 
-- ⚡ Fun fact **I also play games ;)**
+- 🎮 Fun fact, **I also play games** 😋
 
-- 🎵 I might be listening to something, you can see here right below :)
+<!-- About me section -->
+<h2>🙋🏻‍♂️ Something about me</h2>
+<h3>👨🏻‍💻 My lore</h3>
+I have been close to computers and information technology in general since I was a kid. In primary school I started as a computer repairman and webmaster, and in high school I discovered the magic of software development and devoted myself fully to it.
 
-[<img src="https://readme-spotify-status-orpin.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](https://open.spotify.com/user/karel.kryda)
+\
+I learned a lot of programming languages, how to create mobile apps, desktop apps and a lot more. During my high school years, I created a huge number of projects that kept me improving my skills and acquiring new ones. During this period, I became interested in creating a homelab (read as a small home datacenter 😅). I bought a few servers and started to fully commit to it.
+The combination of development and systems administration knowledge gave me the ability to create almost anything and it was amazing.
 
-### Languages and Tools:
+After high school, I decided to go to college, but after a few months I realized I didn't want to go in that direction and found a job as a DevOps engineer.
+Over the last couple of years in this position, I have been exposed to a lot of new technologies and techniques as well as working with cloud providers.
 
-#### Web:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h3>🕯️ Interests</h3>
+In general, I'm interested in everything related to IT.
 
-#### Programming languages:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+I care a lot about safety and security in the IT world and try to be involved in this direction.
 
-#### Mobile applications:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+I like to work on my own projects and listen to good - and sometimes even bad 😇 - music.
+\
+Sometimes I even play a computer game, either alone or with friends.
 
-#### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<h3>🎯 Goals</h3>
+As a teenager, I made a commitment to myself to be able to do everything in IT. Whether it's computer networking, software development, operating system administration, or anything else - so I guess that's my goal for the future.
 
-#### Frameworks:
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=javascript)
+\
+But among other things, I'd like to learn how to develop and work with AI systems in the future - after all, it's not easy to re-create Jarvis from Iron Man 🤖😁.
 
-#### CMS:
-![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<!-- Music section -->
+<h2>🎸 What I'm listening to</h2>
+I spend most of my day listening to music. It helps me relax and focus on my work.
 
-#### IDEs:
-![Ardiuno IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
-![Eclispe](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Intellij Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
-![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
+Given this amount of time, I'm always trying to discover new genres and artists.
 
-<br />
-<br />
+Here's a taste of what I've been listening to recently or am listening to right now 😉:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karelkryda&show_icons=true&theme=dracula&count_private=true" alt="karelkryda" height="200"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karelkryda&theme=dracula&count_private=true" alt="karelkryda's github stats" height="200"/>
-<div><img src="https://github-profile-trophy.vercel.app/?username=karelkryda&theme=dracula&count_private=true" width="1200"></div></p>
+<!-- Spotify badge -->
+![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=karel.kryda&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)
+
+<!-- GitHub stats section -->
+<h2>📊 GitHub statistics</h2>
+Given how much we developers like to show off, I couldn't resist providing you with my, completely useless, GitHub stats here 😄.
+
+<h4>🌍 Overall statistics</h4>
+
+<!-- GitHub statistics badge -->
+![karelkryda's stats](https://github-readme-stats.vercel.app/api?username=karelkryda&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+
+<h4>📚 Used languages</h4>
+
+<!-- GitHub most used languages badge -->
+![karelkryda's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karelkryda&layout=compact&theme=dracula&hide_border=true&count_private=true)
+
+<h4>🏆 Trophies</h4>
+
+<!-- GitHub trophies badge -->
+![karelkryda's trophies](https://github-profile-trophy.vercel.app/?username=karelkryda&theme=dracula&no-frame=true&margin-w=10&margin-h=10)
